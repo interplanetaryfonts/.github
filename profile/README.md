@@ -1,6 +1,6 @@
 # InterplanetaryFonts
 
-We're building a decentralized NFT marketplace & collaboration platform for creators and collectors of Fonts.
+> We're building a decentralized NFT marketplace & collaboration platform for creators and collectors of Fonts.
 
 ## [interplanetaryfonts.xyz](https://interplanetaryfonts.xyz) (Demo app)
 

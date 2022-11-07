@@ -4,7 +4,7 @@ We're building a decentralized NFT marketplace & collaboration platform for crea
 
 ## interplanetaryfonts.xyz (https://interplanetaryfonts.xyz) (Demo app)
 
-## [ETHOnline 2022 Finalist 🏆](https://ethglobal.com/showcase/interplanetaryfonts-ekwuo)
+## [ETHOnline 2022 Finalist](https://ethglobal.com/showcase/interplanetaryfonts-ekwuo) 🏆
 
 ## About us
 
